@@ -174,7 +174,7 @@ def main():
         sys.exit()
 
     try:
-        inf = open(filename, "r")
+        inf = open("data/" + filename, "r")
     except:
         print ('Error: File not found or invalid file name')
         close()
