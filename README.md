@@ -1,4 +1,6 @@
-# sankey-diagram
+# Sankey Diagram
+![](https://img.shields.io/github/repo-size/daspeks/sankey-diagram)
+
 Drawing a Sankey diagram, a data visualization tool, from scratch.
 
 #### To run:
